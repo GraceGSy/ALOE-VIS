@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width,initial-scale=1'>
+
+	<title>Svelte app</title>
+
+	<link rel='icon' type='image/png' href='/favicon.png'>
+	<link rel='stylesheet' href='/global.css'>
+	<link rel='stylesheet' href='/build/bundle.css'>
+
+	<script defer src='/build/bundle.js'></script>
+
+	<svg id="temporal">
+		<clipPath id="clip">
+	    	<rect id="clip-rect" />
+	    </clipPath>
+		<g clip-path="url(#clip)" id="vis-container"></g>
+		<g clip-path="url(#clip)" id="x-axis"></g>
+		<g id="y-axis"></g>
+		<g clip-path="url(#clip)" id="start-points"></g>
+		<div id="tooltip" />
+	</svg>
+</head>
+
+<body>
+</body>
+</html>

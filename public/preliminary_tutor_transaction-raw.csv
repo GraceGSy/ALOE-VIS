@@ -1,0 +1,893 @@
+id,userid,tutor,interface,start_state,selection,action,input,correctness,kc_labels,time
+482,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},,start new problem,,,,2022-01-23 18:49:38
+483,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_leading_one.html,{'initial_problem': 'x^2-8x+16'},,start new problem,,,,2022-01-23 18:50:03
+484,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_grouping.html,{'initial_problem': '10x^2+11x-6'},,start new problem,,,,2022-01-23 18:51:07
+485,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_slip_slide.html,{'initial_problem': '25x^2-35x+12'},,start new problem,,,,2022-01-23 18:52:21
+486,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_area_box.html,{'initial_problem': '12x^2-23x+10'},,start new problem,,,,2022-01-23 18:52:40
+487,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},,start new problem,,,,2022-01-23 18:52:50
+488,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},first_expression,input change,(x-2),INCORRECT,[],2022-01-23 18:53:50
+489,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},second_expression,input change,(x+5),INCORRECT,[],2022-01-23 18:53:58
+490,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},b_value,input change,3,HINT,['Extract b value'],2022-01-23 18:54:45
+491,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_area_box.html,{'initial_problem': '4x^2+17x+4'},,start new problem,,,,2022-01-23 19:30:29
+492,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_grouping.html,{'initial_problem': '20x^2+11x-4'},,start new problem,,,,2022-01-23 19:34:37
+493,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_grouping.html,{'initial_problem': '6x^2-7x-20'},,start new problem,,,,2022-01-23 19:38:12
+494,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_slip_slide.html,{'initial_problem': '20x^2+17x+3'},,start new problem,,,,2022-01-23 19:38:13
+495,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},,start new problem,,,,2022-01-23 19:38:28
+496,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},b_value,input change,1,INCORRECT,['Extract b value'],2022-01-23 19:39:11
+497,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},b_value,input change,0,INCORRECT,['Extract b value'],2022-01-23 19:39:15
+498,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},b_value,input change,2x,INCORRECT,['Extract b value'],2022-01-23 19:39:20
+499,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},b_value,input change,(x+4),INCORRECT,['Extract b value'],2022-01-23 19:42:27
+500,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},c_value,input change,(x-2),INCORRECT,['Extract c value'],2022-01-23 19:42:37
+501,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_grouping.html,{'initial_problem': '8x^2-10x-25'},,start new problem,,,,2022-01-23 19:42:55
+502,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_grouping.html,{'initial_problem': '8x^2-10x-25'},a_value,input change,8x,INCORRECT,['Extract a value'],2022-01-23 19:43:26
+503,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_grouping.html,{'initial_problem': '8x^2-10x-25'},done,button click,,INCORRECT,[],2022-01-23 19:43:26
+504,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring_polynomials,factor_grouping.html,{'initial_problem': '8x^2-10x-25'},done,button click,,INCORRECT,[],2022-01-23 19:43:27
+567,88d88c93-ff7a-11eb-b799-d1d9dd24efdf,factoring,factor_slip_slide.html,{'initial_problem': '5x^2+3x-2'},,start new problem,,,,2022-01-24 02:11:27
+568,88d88c93-ff7a-11eb-b799-d1d9dd24efdf,factoring,factor_leading_one.html,{'initial_problem': 'x^2-3x-4'},,start new problem,,,,2022-01-24 02:12:26
+569,88d88c93-ff7a-11eb-b799-d1d9dd24efdf,factoring,factor_slip_slide.html,{'initial_problem': '15x^2-26x+8'},,start new problem,,,,2022-01-24 02:12:29
+590,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring,factor_grouping.html,{'initial_problem': '4x^2+7x-15'},,start new problem,,,,2022-01-24 23:21:51
+591,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+7x-15'},a_value,input change,16x,INCORRECT,['Extract a value'],2022-01-24 23:24:51
+592,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+7x-15'},a_value,input change,16a,INCORRECT,['Extract a value'],2022-01-24 23:24:57
+593,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+7x-15'},a_value,input change,1,INCORRECT,['Extract a value'],2022-01-24 23:25:07
+594,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+7x-15'},a_value,input change,0,INCORRECT,['Extract a value'],2022-01-24 23:25:11
+595,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring,factor_leading_one.html,{'initial_problem': 'x^2+10x+25'},,start new problem,,,,2022-01-24 23:25:18
+596,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring,factor_area_box.html,{'initial_problem': '3x^2+3x-6'},,start new problem,,,,2022-01-24 23:25:22
+597,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring,factor_grouping.html,{'initial_problem': '5x^2-19x+12'},,start new problem,,,,2022-01-24 23:25:33
+598,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_grouping.html,{'initial_problem': '5x^2-19x+12'},a_value,input change,5,HINT,['Extract a value'],2022-01-24 23:25:37
+599,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_grouping.html,{'initial_problem': '5x^2-19x+12'},factor_1_ac_1,input change,1,INCORRECT,[],2022-01-24 23:26:02
+600,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_grouping.html,{'initial_problem': '5x^2-19x+12'},factor_1_ac_1,input change,0,INCORRECT,[],2022-01-24 23:26:12
+601,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_grouping.html,{'initial_problem': '5x^2-19x+12'},factor_1_ac_1,input change,r,INCORRECT,[],2022-01-24 23:26:21
+610,c082959f-5882-11ec-a0cf-331922ec397a,factoring,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},,start new problem,,,,2022-01-25 18:03:38
+611,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,2,INCORRECT,['Extract b value'],2022-01-25 18:04:11
+612,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},c_value,input change,3,INCORRECT,['Extract c value'],2022-01-25 18:04:14
+613,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,3,INCORRECT,['Extract b value'],2022-01-25 18:04:17
+614,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,1,INCORRECT,['Extract b value'],2022-01-25 18:04:23
+615,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},c_value,input change,2,INCORRECT,['Extract c value'],2022-01-25 18:04:30
+654,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring,factor_area_box.html,{'initial_problem': '6x^2+7x-5'},,start new problem,,,,2022-01-26 01:34:40
+655,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},,start new problem,,,,2022-01-26 01:34:47
+656,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},b_value,input change,x2,INCORRECT,['Extract b value'],2022-01-26 01:35:10
+657,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},c_value,input change,7x,INCORRECT,['Extract c value'],2022-01-26 01:35:17
+658,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},b_value,input change,7x,INCORRECT,['Extract b value'],2022-01-26 01:36:01
+659,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},b_value,input change,7,CORRECT,['Extract b value'],2022-01-26 01:36:08
+660,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},c_value,input change,17,INCORRECT,['Extract c value'],2022-01-26 01:36:14
+661,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},c_value,input change,3,INCORRECT,['Extract c value'],2022-01-26 01:36:31
+662,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},c_value,input change,17x,INCORRECT,['Extract c value'],2022-01-26 01:36:46
+663,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},c_value,input change,10x,INCORRECT,['Extract c value'],2022-01-26 01:36:55
+664,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},c_value,input change,10,CORRECT,['Extract c value'],2022-01-26 01:37:49
+665,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},product_c,input change,x,INCORRECT,['Update r value based on c'],2022-01-26 01:38:00
+666,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},product_c,input change,1,INCORRECT,['Update r value based on c'],2022-01-26 01:38:11
+667,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_b,input change,1,INCORRECT,['Update s value based on b'],2022-01-26 01:38:20
+668,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_b,input change,x2,INCORRECT,['Update s value based on b'],2022-01-26 01:38:30
+669,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},product_c,input change,x2,INCORRECT,['Update r value based on c'],2022-01-26 01:38:42
+670,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},product_c,input change,10,HINT,['Update r value based on c'],2022-01-26 01:38:49
+671,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},product_c,input change,10,HINT,['Update r value based on c'],2022-01-26 01:38:56
+672,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},product_c,input change,10,HINT,['Update r value based on c'],2022-01-26 01:39:01
+673,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},product_c,input change,10,CORRECT,['Update r value based on c'],2022-01-26 01:39:13
+674,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_b,input change,7,CORRECT,['Update s value based on b'],2022-01-26 01:39:37
+675,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},,start new problem,,,,2022-01-26 01:39:38
+676,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_1_b_1,input change,2,HINT,['Compute first factor'],2022-01-26 01:39:46
+677,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_1_b_1,input change,2,HINT,['Compute first factor'],2022-01-26 01:39:49
+678,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},a_value,input change,20,CORRECT,['Extract a value'],2022-01-26 01:39:54
+679,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},b_value,input change,41,CORRECT,['Extract b value'],2022-01-26 01:39:57
+680,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_1_b_1,input change,2,CORRECT,['Compute first factor'],2022-01-26 01:40:01
+681,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},c_value,input change,20,CORRECT,['Extract c value'],2022-01-26 01:40:03
+682,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:40:06
+683,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,41,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:40:18
+684,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:40:19
+685,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},sum_b,input change,20,INCORRECT,['Update s value based on b'],2022-01-26 01:40:25
+686,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,4,INCORRECT,['Compute second factor'],2022-01-26 01:40:28
+687,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:40:33
+688,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:40:35
+689,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:40:35
+690,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,20,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:40:35
+691,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,40,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:40:43
+692,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:40:52
+693,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:40:53
+694,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,20,INCORRECT,['Compute second factor'],2022-01-26 01:41:06
+695,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,100,INCORRECT,['Compute second factor'],2022-01-26 01:41:15
+696,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,61,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:41:31
+697,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:41:37
+698,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:41:46
+699,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:41:46
+700,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:41:47
+701,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:41:48
+702,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:41:58
+703,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,4,INCORRECT,['Compute second factor'],2022-01-26 01:42:22
+704,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,20,INCORRECT,['Compute second factor'],2022-01-26 01:42:32
+705,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:43:07
+706,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,400,HINT,['Update r value based on product of ac'],2022-01-26 01:43:08
+707,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,400,HINT,['Update r value based on product of ac'],2022-01-26 01:43:18
+708,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,1,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:43:26
+709,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,2,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:43:29
+710,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,3,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:43:32
+711,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,4,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:43:36
+712,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,5,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:43:38
+713,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,6,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:43:41
+714,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,7,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:43:45
+715,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,8,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:43:51
+716,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:44:00
+717,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,HINT,['Compute second factor'],2022-01-26 01:44:00
+718,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,70,INCORRECT,['Compute second factor'],2022-01-26 01:44:26
+719,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,x,INCORRECT,['Compute second factor'],2022-01-26 01:45:03
+720,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,4,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:45:45
+721,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,20,INCORRECT,['Update r value based on product of ac'],2022-01-26 01:45:53
+722,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},sum_b,input change,9,INCORRECT,['Update s value based on b'],2022-01-26 01:45:56
+723,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},sum_b,input change,10,INCORRECT,['Update s value based on b'],2022-01-26 01:46:09
+724,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},sum_b,input change,8,INCORRECT,['Update s value based on b'],2022-01-26 01:46:14
+725,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},final_answer,input change,(x+2)(x+5),INCORRECT,[],2022-01-26 01:46:28
+726,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},sum_b,input change,4,INCORRECT,['Update s value based on b'],2022-01-26 01:46:31
+727,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},sum_b,input change,41,CORRECT,['Update s value based on b'],2022-01-26 01:46:37
+728,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},product_ac,input change,400,CORRECT,['Update r value based on product of ac'],2022-01-26 01:46:59
+729,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_1_ac_1,input change,25,CORRECT,['Compute first factor'],2022-01-26 01:47:14
+730,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_2_ac_1,input change,16,CORRECT,['Compute second factor'],2022-01-26 01:47:16
+731,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},sum_factor_1,input change,41,CORRECT,['Compute sum of factors'],2022-01-26 01:47:21
+732,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},sum_b_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-01-26 01:47:21
+733,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},final_answer,input change,x(x+5)+2(x+5),INCORRECT,[],2022-01-26 01:47:23
+734,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_1_ac_2,input change,49,INCORRECT,[],2022-01-26 01:47:28
+735,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_2_ac_2,input change,20,INCORRECT,[],2022-01-26 01:47:31
+736,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:47:33
+737,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_1_ac_2,input change,40,INCORRECT,[],2022-01-26 01:47:34
+738,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:47:37
+739,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:47:37
+740,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:47:38
+741,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_1_ac_2,input change,400,INCORRECT,[],2022-01-26 01:47:43
+742,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_2_ac_2,input change,1,INCORRECT,[],2022-01-26 01:47:48
+743,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_2_ac_2,input change,25,INCORRECT,[],2022-01-26 01:47:57
+744,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5x,INCORRECT,['Compute second factor'],2022-01-26 01:47:58
+745,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_1_ac_2,input change,16,INCORRECT,[],2022-01-26 01:48:04
+746,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_factor_1,input change,7,INCORRECT,[],2022-01-26 01:48:07
+747,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_2_b_1,input change,5,CORRECT,['Compute second factor'],2022-01-26 01:48:09
+748,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_1_ac_2,input change,8,INCORRECT,[],2022-01-26 01:48:14
+749,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},factor_2_ac_2,input change,50,INCORRECT,[],2022-01-26 01:48:18
+750,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_c_1,input change,checked,INCORRECT,[],2022-01-26 01:48:20
+751,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_1_b_2,input change,x,INCORRECT,[],2022-01-26 01:48:31
+752,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},p_value,input change,4,INCORRECT,['Extract first p or q value'],2022-01-26 01:48:36
+753,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},q_value,input change,4,INCORRECT,['Extract first p or q value'],2022-01-26 01:48:39
+754,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},p_value,input change,25,CORRECT,['Extract first p or q value'],2022-01-26 01:48:46
+755,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},q_value,input change,16,CORRECT,['Extract second p or q value'],2022-01-26 01:48:50
+756,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_1_b_2,input change,5,INCORRECT,[],2022-01-26 01:48:57
+757,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},factor_1_b_2,input change,2,INCORRECT,[],2022-01-26 01:49:06
+758,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},first_part,input change,20x^2,INCORRECT,['Extract first half of trinomial for factoring by grouping'],2022-01-26 01:49:09
+759,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},first_part,input change,20x,INCORRECT,['Extract first half of trinomial for factoring by grouping'],2022-01-26 01:49:13
+760,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:49:14
+761,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_factor_1,input change,7,HINT,['Compute sum of factors'],2022-01-26 01:49:16
+762,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},first_part,input change,20,INCORRECT,['Extract first half of trinomial for factoring by grouping'],2022-01-26 01:49:23
+763,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},first_part,input change,20x^2+25x,CORRECT,['Extract first half of trinomial for factoring by grouping'],2022-01-26 01:49:43
+764,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_factor_1,input change,10,INCORRECT,['Compute sum of factors'],2022-01-26 01:49:46
+765,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},second_part,input change,16x+20,CORRECT,['Extract second half of trinomial for factoring by grouping'],2022-01-26 01:49:53
+766,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_factor_1,input change,7x,INCORRECT,['Compute sum of factors'],2022-01-26 01:49:57
+767,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_factor_1,input change,7,CORRECT,['Compute sum of factors'],2022-01-26 01:50:07
+768,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:50:11
+769,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:50:12
+770,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:50:12
+771,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:50:12
+772,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,(4x+5),INCORRECT,['Factor GCF out of expression'],2022-01-26 01:50:23
+773,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_2,input change,5x+4,INCORRECT,['Factor GCF out of expression'],2022-01-26 01:50:31
+774,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,4x+5,INCORRECT,['Factor GCF out of expression'],2022-01-26 01:50:36
+775,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5(4z^2+5),INCORRECT,['Factor GCF out of expression'],2022-01-26 01:51:07
+776,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},first_expression,input change,x2+5x+2x+10,INCORRECT,[],2022-01-26 01:51:13
+777,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5(4x^2+5),INCORRECT,['Factor GCF out of expression'],2022-01-26 01:51:14
+778,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5(4x^2+5x),INCORRECT,['Factor GCF out of expression'],2022-01-26 01:51:44
+779,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},first_expression,input change,x2+7x+10,INCORRECT,[],2022-01-26 01:51:46
+780,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:51:51
+781,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},sum_c_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 01:51:53
+782,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_2,input change,4x+5,INCORRECT,['Factor GCF out of expression'],2022-01-26 01:52:16
+783,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5x(4x+5),HINT,['Factor GCF out of expression'],2022-01-26 01:52:24
+784,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5x(4x+5),HINT,['Factor GCF out of expression'],2022-01-26 01:52:25
+785,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5x(4x+5),HINT,['Factor GCF out of expression'],2022-01-26 01:52:26
+786,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5x(4x+5),HINT,['Factor GCF out of expression'],2022-01-26 01:52:26
+787,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},first_expression,input change,x2+5x+2x+10,INCORRECT,[],2022-01-26 01:52:47
+788,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5x(42+5),INCORRECT,['Factor GCF out of expression'],2022-01-26 01:52:48
+789,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5x(4+5),INCORRECT,['Factor GCF out of expression'],2022-01-26 01:52:53
+790,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_1,input change,5x(4x+5),CORRECT,['Factor GCF out of expression'],2022-01-26 01:52:58
+791,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_factor_2,input change,4(4x+5),CORRECT,['Factor GCF out of expression'],2022-01-26 01:53:11
+792,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},second_expression,input change,x(x+5)2(x+5),INCORRECT,[],2022-01-26 01:53:33
+793,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},final_answer,input change,(x+2)(x+5),INCORRECT,[],2022-01-26 01:54:28
+794,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:52
+795,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:53
+796,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:53
+797,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:54
+798,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:54
+799,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:54
+800,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:54
+801,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:55
+802,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:55
+803,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},done,button click,,INCORRECT,[],2022-01-26 01:54:55
+804,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_final_1,input change,(5x+4),INCORRECT,['Extract GCF from two expressions'],2022-01-26 02:02:47
+805,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_final_2,input change,(4x+5),INCORRECT,['Divide GCF out of two expressions'],2022-01-26 02:02:50
+806,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_final_1,input change,(4x+5),CORRECT,['Extract GCF from two expressions'],2022-01-26 02:03:12
+807,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},gcf_final_2,input change,(5x+4),CORRECT,['Divide GCF out of two expressions'],2022-01-26 02:03:18
+808,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},final_answer,input change,(4x+5)*(5x+4),INCORRECT,['Combine expressions to create final factored form'],2022-01-26 02:03:46
+809,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},done,button click,,INCORRECT,[],2022-01-26 02:03:46
+810,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},done,button click,,INCORRECT,[],2022-01-26 02:03:47
+811,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},final_answer,input change,(4x+5)(5x+4),CORRECT,['Combine expressions to create final factored form'],2022-01-26 02:03:59
+812,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '20x^2+41x+20'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-01-26 02:04:00
+813,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},,start new problem,,,,2022-01-26 02:04:00
+814,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},a_value,input change,12,CORRECT,['Extract a value'],2022-01-26 02:04:18
+815,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},b_value,input change,-29,CORRECT,['Extract b value'],2022-01-26 02:04:22
+816,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},c_value,input change,15,CORRECT,['Extract c value'],2022-01-26 02:04:25
+817,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},product_ac,input change,180,CORRECT,['Compute a times c for slip and slide'],2022-01-26 02:04:32
+818,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_equation,input change,x^2-29x+180,CORRECT,['Identify intermediate trinomial for slip and slide'],2022-01-26 02:06:42
+819,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_b_value,input change,-29,CORRECT,['Extract b value'],2022-01-26 02:06:46
+820,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_c_value,input change,180,CORRECT,['Extract c value'],2022-01-26 02:06:51
+821,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},r_value,input change,-9,INCORRECT,['Update r value based on product of ac'],2022-01-26 02:07:13
+822,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},r_value,input change,-29,INCORRECT,['Update r value based on product of ac'],2022-01-26 02:07:30
+823,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},s_value,input change,-29,CORRECT,['Update s value based on b'],2022-01-26 02:07:33
+824,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},r_value,input change,180,CORRECT,['Update r value based on product of ac'],2022-01-26 02:07:39
+825,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},factor_1_ac_1,input change,-9,CORRECT,['Compute first factor'],2022-01-26 02:07:44
+826,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},factor_2_ac_1,input change,-20,CORRECT,['Compute second factor'],2022-01-26 02:07:47
+827,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_factor_1,input change,-29,CORRECT,['Compute sum of factors'],2022-01-26 02:07:52
+828,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-01-26 02:07:52
+829,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,x^2-29,INCORRECT,[],2022-01-26 02:08:40
+830,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:09:13
+831,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:09:14
+832,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:09:15
+833,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:09:26
+834,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,5,INCORRECT,[],2022-01-26 02:09:35
+835,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:09:37
+836,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,5x52,INCORRECT,[],2022-01-26 02:09:48
+837,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:09:50
+838,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:09:51
+839,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:10:03
+840,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},sum_b_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 02:10:04
+841,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_second_expression,input change,-20x+15 ,INCORRECT,[],2022-01-26 02:19:22
+842,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,12x^2-9x ,INCORRECT,[],2022-01-26 02:19:26
+843,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,12x^2-9x,INCORRECT,[],2022-01-26 02:19:29
+844,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_second_expression,input change,-20x+15,INCORRECT,[],2022-01-26 02:19:40
+845,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,3x(4x-3),INCORRECT,[],2022-01-26 02:20:10
+846,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,3x+5,INCORRECT,[],2022-01-26 02:22:53
+847,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,4x(3x+5),INCORRECT,[],2022-01-26 02:23:21
+848,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_first_expression,input change,(3x+5),INCORRECT,[],2022-01-26 02:23:36
+849,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '12x^2-29x+15'},new_second_expression,input change,3x+5,INCORRECT,[],2022-01-26 02:23:43
+850,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_leading_one.html,{'initial_problem': 'x^2-9x+20'},,start new problem,,,,2022-01-26 02:24:10
+851,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_grouping.html,{'initial_problem': '12x^2-19x+5'},,start new problem,,,,2022-01-26 02:24:14
+852,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_slip_slide.html,{'initial_problem': '10x^2-11x+3'},,start new problem,,,,2022-01-26 02:24:19
+853,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},,start new problem,,,,2022-01-26 02:26:00
+854,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},b_value,input change,-1,CORRECT,['Extract b value'],2022-01-26 02:26:05
+855,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},c_value,input change,-2,CORRECT,['Extract c value'],2022-01-26 02:26:11
+856,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},product_c,input change,2,INCORRECT,['Update r value based on c'],2022-01-26 02:26:18
+857,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},product_c,input change,3,INCORRECT,['Update r value based on c'],2022-01-26 02:26:23
+858,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},product_c,input change,-3,INCORRECT,['Update r value based on c'],2022-01-26 02:26:32
+859,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},product_c,input change,2,INCORRECT,['Update r value based on c'],2022-01-26 02:26:42
+860,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_b,input change,-3,INCORRECT,['Update s value based on b'],2022-01-26 02:26:48
+864,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_b,input change,3,INCORRECT,['Update s value based on b'],2022-01-26 04:30:23
+865,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},product_c,input change,-1,INCORRECT,['Update r value based on c'],2022-01-26 04:30:25
+866,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_b,input change,-1,CORRECT,['Update s value based on b'],2022-01-26 04:30:32
+867,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},product_c,input change,-3,INCORRECT,['Update r value based on c'],2022-01-26 04:30:43
+868,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},product_c,input change,-2,CORRECT,['Update r value based on c'],2022-01-26 04:30:48
+869,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},factor_1_b_1,input change,2,CORRECT,['Compute first factor'],2022-01-26 04:31:15
+870,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},factor_2_b_1,input change,-1,CORRECT,['Compute second factor'],2022-01-26 04:31:21
+871,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_factor_1,input change,1,CORRECT,['Compute sum of factors'],2022-01-26 04:31:26
+872,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},factor_1_b_2,input change,-2,CORRECT,['Compute first factor'],2022-01-26 04:31:32
+873,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},factor_2_b_2,input change,1,CORRECT,['Compute second factor'],2022-01-26 04:31:36
+874,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_factor_2,input change,-1,CORRECT,['Compute sum of factors'],2022-01-26 04:31:39
+875,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_c_2,input change,checked,INCORRECT,[],2022-01-26 04:31:40
+876,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},first_expression,input change,-2x^2-1,INCORRECT,[],2022-01-26 04:32:05
+877,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},first_expression,input change,-x^2-2,INCORRECT,[],2022-01-26 04:32:31
+878,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},first_expression,input change,-2x^2-2,INCORRECT,[],2022-01-26 04:32:37
+879,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},first_expression,input change,2x^2-2,INCORRECT,[],2022-01-26 04:32:43
+880,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},first_expression,input change,2x^2-1,INCORRECT,[],2022-01-26 04:32:51
+881,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},first_expression,input change,x+1,INCORRECT,[],2022-01-26 04:33:53
+882,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},second_expression,input change,x+1,INCORRECT,[],2022-01-26 04:34:01
+883,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},second_expression,input change,-2x-2,INCORRECT,[],2022-01-26 04:34:14
+884,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},first_expression,input change,x^2+x,INCORRECT,[],2022-01-26 04:34:28
+885,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},second_expression,input change,x^2+x,INCORRECT,[],2022-01-26 04:34:40
+886,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},first_expression,input change,x^2-2x,INCORRECT,[],2022-01-26 04:36:35
+887,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_c_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 04:36:59
+888,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_c_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 04:37:01
+889,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_c_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 04:37:01
+890,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_c_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 04:37:09
+891,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_c_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 04:37:11
+892,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},sum_c_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-01-26 04:37:11
+893,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},,start new problem,,,,2022-01-26 04:37:38
+894,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},a_value,input change,6,CORRECT,['Extract a value'],2022-01-26 04:37:42
+895,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},b_value,input change,-13,CORRECT,['Extract b value'],2022-01-26 04:37:46
+896,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},c_value,input change,6,CORRECT,['Extract c value'],2022-01-26 04:37:49
+897,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_b,input change,-7,INCORRECT,['Update s value based on b'],2022-01-26 04:37:54
+898,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_b,input change,12,INCORRECT,['Update s value based on b'],2022-01-26 04:38:05
+899,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},product_ac,input change,-78,INCORRECT,['Update r value based on product of ac'],2022-01-26 04:38:25
+900,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},product_ac,input change,78,INCORRECT,['Update r value based on product of ac'],2022-01-26 04:38:33
+901,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},product_ac,input change,36,CORRECT,['Update r value based on product of ac'],2022-01-26 04:38:41
+902,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_b,input change,-7,INCORRECT,['Update s value based on b'],2022-01-26 04:38:51
+903,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_b,input change,78,INCORRECT,['Update s value based on b'],2022-01-26 04:39:08
+904,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_b,input change,-78,INCORRECT,['Update s value based on b'],2022-01-26 04:39:14
+905,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_b,input change,-36,INCORRECT,['Update s value based on b'],2022-01-26 04:41:44
+906,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_b,input change,-13,CORRECT,['Update s value based on b'],2022-01-26 04:41:57
+907,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},factor_1_ac_1,input change,-4,CORRECT,['Compute first factor'],2022-01-26 04:42:04
+908,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},factor_2_ac_1,input change,-9,CORRECT,['Compute second factor'],2022-01-26 04:42:07
+909,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_factor_1,input change,-13,CORRECT,['Compute sum of factors'],2022-01-26 04:42:12
+910,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},sum_b_1,input change,checked,INCORRECT,[],2022-01-26 04:42:13
+911,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_grouping.html,{'initial_problem': '6x^2-13x+6'},p_value,input change,-4,INCORRECT,[],2022-01-26 04:44:42
+912,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},,start new problem,,,,2022-01-26 04:45:29
+913,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},b_value,input change,3,CORRECT,['Extract b value'],2022-01-26 04:45:37
+914,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},c_value,input change,-10,CORRECT,['Extract c value'],2022-01-26 04:45:41
+915,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},product_c,input change,-30,INCORRECT,['Update r value based on c'],2022-01-26 04:45:47
+916,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},product_c,input change,3,INCORRECT,['Update r value based on c'],2022-01-26 04:45:55
+917,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},product_c,input change,13,INCORRECT,['Update r value based on c'],2022-01-26 04:46:00
+918,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},sum_b,input change,-10,INCORRECT,['Update s value based on b'],2022-01-26 04:46:09
+919,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},sum_b,input change,-30,INCORRECT,['Update s value based on b'],2022-01-26 04:46:14
+920,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},product_c,input change,10,INCORRECT,['Update r value based on c'],2022-01-26 04:46:43
+921,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},product_c,input change,7,INCORRECT,['Update r value based on c'],2022-01-26 04:46:55
+922,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},sum_b,input change,10,INCORRECT,['Update s value based on b'],2022-01-26 04:47:02
+923,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},product_c,input change,-7,INCORRECT,['Update r value based on c'],2022-01-26 04:47:07
+924,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},sum_b,input change,-10,INCORRECT,['Update s value based on b'],2022-01-26 04:47:09
+925,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},product_c,input change,3,INCORRECT,['Update r value based on c'],2022-01-26 04:47:24
+926,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},sum_b,input change,3,CORRECT,['Update s value based on b'],2022-01-26 04:47:42
+927,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},product_c,input change,-10,CORRECT,['Update r value based on c'],2022-01-26 04:47:47
+928,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},factor_1_b_1,input change,5,CORRECT,['Compute first factor'],2022-01-26 04:47:49
+929,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},factor_2_b_1,input change,-2,CORRECT,['Compute second factor'],2022-01-26 04:47:53
+930,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},sum_factor_1,input change,3,CORRECT,['Compute sum of factors'],2022-01-26 04:47:58
+931,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},sum_c_1,input change,checked,INCORRECT,[],2022-01-26 04:47:58
+932,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},first_expression,input change,x(x+5),INCORRECT,[],2022-01-26 04:48:22
+933,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},first_expression,input change,x(x+-2),INCORRECT,[],2022-01-26 04:48:36
+935,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},first_expression,input change,x(x-2),INCORRECT,[],2022-01-26 04:48:40
+939,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},first_expression,input change,x^2+5x,INCORRECT,[],2022-01-26 04:49:10
+941,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},first_expression,input change,x^2-2,INCORRECT,[],2022-01-26 04:49:29
+1005,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},,start new problem,,,,2022-01-28 18:15:06
+1010,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},a_value,input change,x^3,INCORRECT,['Extract a value'],2022-01-28 18:15:44
+1011,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},a_value,input change,x,INCORRECT,['Extract a value'],2022-01-28 18:15:48
+1012,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},a_value,input change,1,INCORRECT,['Extract a value'],2022-01-28 18:15:55
+1013,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},a_value,input change,23,INCORRECT,['Extract a value'],2022-01-28 18:15:58
+1014,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},a_value,input change,x,INCORRECT,['Extract a value'],2022-01-28 18:16:02
+1015,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},b_value,input change,3x^2,INCORRECT,['Extract b value'],2022-01-28 18:16:26
+1016,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},a_value,input change,x^3,INCORRECT,['Extract a value'],2022-01-28 18:16:32
+1017,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},c_value,input change,2x,INCORRECT,['Extract c value'],2022-01-28 18:16:39
+1018,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2+6x+4'},done,button click,,INCORRECT,[],2022-01-28 18:16:53
+1019,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_leading_one.html,{'initial_problem': 'x^2-2x-15'},,start new problem,,,,2022-01-28 18:16:58
+1020,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_grouping.html,{'initial_problem': '12x^2+7x-10'},,start new problem,,,,2022-01-28 18:17:05
+1021,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_leading_one.html,{'initial_problem': 'x^2+4x+3'},,start new problem,,,,2022-01-28 18:17:06
+1022,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},,start new problem,,,,2022-01-28 18:17:09
+1023,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},a_value,input change,3x^2,INCORRECT,['Extract a value'],2022-01-28 18:17:27
+1024,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},b_value,input change,-5x,INCORRECT,['Extract b value'],2022-01-28 18:17:35
+1025,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},c_value,input change,-12,CORRECT,['Extract c value'],2022-01-28 18:17:39
+1026,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},product_ac,input change,23,INCORRECT,[],2022-01-28 18:18:22
+1027,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},b_value,input change,-5,CORRECT,['Extract b value'],2022-01-28 18:18:34
+1028,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},a_value,input change,3,CORRECT,['Extract a value'],2022-01-28 18:18:37
+1029,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},product_ac,input change,-36,HINT,['Update r value based on product of ac'],2022-01-28 18:18:48
+1033,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},product_ac,input change,-36,CORRECT,['Update r value based on product of ac'],2022-01-28 18:22:24
+1035,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_b,input change,-5,HINT,['Update s value based on b'],2022-01-28 18:22:32
+1036,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_b,input change,-5,CORRECT,['Update s value based on b'],2022-01-28 18:23:21
+1037,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_1_ac_1,input change,-9,HINT,['Compute first factor'],2022-01-28 18:23:38
+1038,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_1_ac_1,input change,1,CORRECT,['Compute first factor'],2022-01-28 18:23:50
+1039,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_2_ac_1,input change,-36,CORRECT,['Compute second factor'],2022-01-28 18:23:59
+1040,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_1_ac_2,input change,9,INCORRECT,[],2022-01-28 18:25:03
+1041,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_2_ac_2,input change,2,INCORRECT,[],2022-01-28 18:25:06
+1042,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_1_ac_2,input change,2,INCORRECT,[],2022-01-28 18:25:08
+1043,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_2_ac_2,input change,9,INCORRECT,[],2022-01-28 18:25:12
+1044,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_1_ac_2,input change,6,INCORRECT,[],2022-01-28 18:26:21
+1045,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_2_ac_2,input change,6,INCORRECT,[],2022-01-28 18:26:21
+1046,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_factor_1,input change,-35,HINT,['Compute sum of factors'],2022-01-28 18:26:48
+1047,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_factor_1,input change,-35,HINT,['Compute sum of factors'],2022-01-28 18:26:48
+1048,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_factor_1,input change,-35,CORRECT,['Compute sum of factors'],2022-01-28 18:27:12
+1049,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_b_1,input change,checked,INCORRECT,[],2022-01-28 18:27:12
+1050,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_1_ac_2,input change,6,CORRECT,['Compute first factor'],2022-01-28 18:27:26
+1051,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_2_ac_2,input change,6,INCORRECT,['Compute second factor'],2022-01-28 18:28:19
+1052,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_2_ac_2,input change,5,INCORRECT,['Compute second factor'],2022-01-28 18:28:23
+1053,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_2_ac_2,input change,-6,CORRECT,['Compute second factor'],2022-01-28 18:28:36
+1054,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_factor_2,input change,0,CORRECT,['Compute sum of factors'],2022-01-28 18:28:47
+1055,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_1_ac_3,input change,4,CORRECT,['Compute first factor'],2022-01-28 18:28:55
+1056,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},factor_2_ac_3,input change,-9,CORRECT,['Compute second factor'],2022-01-28 18:29:00
+1057,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_factor_3,input change,-5,CORRECT,['Compute sum of factors'],2022-01-28 18:29:09
+1058,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring_polynomials,factor_grouping.html,{'initial_problem': '3x^2-5x-12'},sum_b_3,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-01-28 18:29:09
+1059,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_area_box.html,{'initial_problem': '8x^2+16x-10'},,start new problem,,,,2022-01-28 18:34:38
+1060,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_grouping.html,{'initial_problem': '10x^2-7x+1'},,start new problem,,,,2022-01-28 18:34:39
+1061,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_leading_one.html,{'initial_problem': 'x^2-1x-2'},,start new problem,,,,2022-01-28 18:34:40
+1062,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_slip_slide.html,{'initial_problem': '6x^2+11x+3'},,start new problem,,,,2022-01-28 18:34:41
+1064,88d88c93-ff7a-11eb-b799-d1d9dd24efdf,factoring,factor_area_box.html,{'initial_problem': '12x^2-5x-25'},,start new problem,,,,2022-01-30 01:03:11
+1065,88d88c93-ff7a-11eb-b799-d1d9dd24efdf,factoring_polynomials,factor_area_box.html,{'initial_problem': '12x^2-5x-25'},a_value,input change,12,HINT,['Extract a value'],2022-01-30 01:04:41
+1066,88d88c93-ff7a-11eb-b799-d1d9dd24efdf,factoring,factor_area_box.html,{'initial_problem': '4x^2-14x+12'},,start new problem,,,,2022-01-30 01:06:41
+1071,c082959f-5882-11ec-a0cf-331922ec397a,factoring,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},,start new problem,,,,2022-02-03 01:42:45
+1072,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},b_value,input change,3,INCORRECT,['Extract b value'],2022-02-03 01:43:27
+1073,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},b_value,input change,6,CORRECT,['Extract b value'],2022-02-03 01:45:57
+1074,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},c_value,input change,5,CORRECT,['Extract c value'],2022-02-03 01:46:00
+1075,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},product_c,input change,5,HINT,['Update r value based on c'],2022-02-03 01:52:12
+1076,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},product_c,input change,3,INCORRECT,['Update r value based on c'],2022-02-03 01:52:35
+1077,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},sum_b,input change,1,INCORRECT,['Update s value based on b'],2022-02-03 01:52:38
+1078,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},product_c,input change,5,HINT,['Update r value based on c'],2022-02-03 01:55:49
+1079,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},product_c,input change,1,INCORRECT,['Update r value based on c'],2022-02-03 01:56:16
+1080,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},product_c,input change,c,INCORRECT,['Update r value based on c'],2022-02-03 01:56:20
+1185,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_leading_one.html,{'initial_problem': 'x^2-4x+3'},,start new problem,,,,2022-02-23 19:00:18
+1212,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},,start new problem,,,,2022-02-25 19:34:28
+1213,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_leading_one.html,{'initial_problem': 'x^2+3x-10'},,start new problem,,,,2022-02-25 19:34:50
+1214,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_grouping.html,{'initial_problem': '6x^2-19x+15'},,start new problem,,,,2022-02-25 19:34:57
+1215,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_slip_slide.html,{'initial_problem': '5x^2-6x+1'},,start new problem,,,,2022-02-25 19:35:09
+1216,8dc0b09e-3764-11ec-8dcf-a716184a8891,factoring,factor_area_box.html,{'initial_problem': '8x^2+8x+2'},,start new problem,,,,2022-02-25 19:35:12
+1217,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring,factor_area_box.html,{'initial_problem': '4x^2-14x-8'},,start new problem,,,,2022-02-27 20:48:39
+1218,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-14x-8'},a_value,input change,4,CORRECT,['Extract a value'],2022-02-27 20:49:06
+1219,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-14x-8'},b_value,input change,-14,CORRECT,['Extract b value'],2022-02-27 20:49:08
+1220,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-14x-8'},c_value,input change,-8,CORRECT,['Extract c value'],2022-02-27 20:49:10
+1221,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-14x-8'},product_ac,input change,4-8,INCORRECT,['Update r value based on product of ac'],2022-02-27 20:49:19
+1222,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-14x-8'},product_ac,input change,(4)(-8),INCORRECT,['Update r value based on product of ac'],2022-02-27 20:49:39
+1223,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-14x-8'},product_ac,input change,-4,INCORRECT,['Update r value based on product of ac'],2022-02-27 20:49:47
+1224,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-14x-8'},product_ac,input change,-32,HINT,['Update r value based on product of ac'],2022-02-27 20:49:55
+1225,c082959f-5882-11ec-a0cf-331922ec397a,factoring,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},,start new problem,,,,2022-02-27 22:39:53
+1226,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},b_value,input change,1,CORRECT,['Extract b value'],2022-02-27 22:40:05
+1227,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},c_value,input change,20,INCORRECT,['Extract c value'],2022-02-27 22:40:10
+1228,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},c_value,input change,-20,CORRECT,['Extract c value'],2022-02-27 22:40:23
+1229,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},factor_1_b_1,input change,2,CORRECT,['Compute first factor'],2022-02-27 22:40:48
+1230,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},factor_2_b_1,input change,10,INCORRECT,['Compute second factor'],2022-02-27 22:40:55
+1231,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},factor_1_b_2,input change,10,INCORRECT,[],2022-02-27 22:41:01
+1232,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},first_expression,input change,2,INCORRECT,[],2022-02-27 23:22:56
+1233,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},factor_2_b_1,input change,-10,CORRECT,['Compute second factor'],2022-02-27 23:27:21
+1234,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},factor_1_b_2,input change,1,INCORRECT,[],2022-02-27 23:27:31
+1235,c082959f-5882-11ec-a0cf-331922ec397a,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},first_expression,input change,2-10,INCORRECT,[],2022-02-27 23:28:23
+1236,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},,start new problem,,,,2022-02-28 20:12:18
+1237,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},a_value,input change,4x2,INCORRECT,['Extract a value'],2022-02-28 20:12:39
+1238,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},a_value,input change,4x,INCORRECT,['Extract a value'],2022-02-28 20:12:53
+1239,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},b_value,input change,8x,INCORRECT,['Extract b value'],2022-02-28 20:12:56
+1240,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},b_value,input change,-8x,INCORRECT,['Extract b value'],2022-02-28 20:13:03
+1241,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},c_value,input change,4,CORRECT,['Extract c value'],2022-02-28 20:13:07
+1242,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},b_value,input change,-8,CORRECT,['Extract b value'],2022-02-28 20:13:15
+1243,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},a_value,input change,4,CORRECT,['Extract a value'],2022-02-28 20:13:20
+1244,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},product_ac,input change,16,CORRECT,['Update r value based on product of ac'],2022-02-28 20:14:57
+1245,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_1,input change,-4,HINT,['Compute first factor'],2022-02-28 20:25:09
+1246,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_1,input change,-4,HINT,['Compute first factor'],2022-02-28 20:25:17
+1247,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_1,input change,-4,HINT,['Compute first factor'],2022-02-28 20:25:18
+1248,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_1,input change,16,CORRECT,['Compute first factor'],2022-02-28 20:25:28
+1249,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_2,input change,8,INCORRECT,[],2022-02-28 20:25:32
+1250,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_2,input change,4,INCORRECT,[],2022-02-28 20:25:34
+1251,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_2,input change,2,INCORRECT,[],2022-02-28 20:25:39
+1252,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_2_ac_1,input change,8,INCORRECT,['Compute second factor'],2022-02-28 20:25:49
+1253,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_2_ac_1,input change,4,INCORRECT,['Compute second factor'],2022-02-28 20:25:50
+1254,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_2_ac_1,input change,2,INCORRECT,['Compute second factor'],2022-02-28 20:25:53
+1255,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_2,input change,1,INCORRECT,[],2022-02-28 20:26:04
+1256,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_2_ac_1,input change,1,CORRECT,['Compute second factor'],2022-02-28 20:26:05
+1257,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},sum_factor_1,input change,17,CORRECT,['Compute sum of factors'],2022-02-28 20:26:13
+1258,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},sum_b_1,input change,checked,INCORRECT,[],2022-02-28 20:26:16
+1259,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_2,input change,4,CORRECT,['Compute first factor'],2022-02-28 20:26:39
+1260,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_2_ac_2,input change,2,INCORRECT,['Compute second factor'],2022-02-28 20:26:43
+1261,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_2_ac_2,input change,4,CORRECT,['Compute second factor'],2022-02-28 20:26:46
+1262,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},sum_factor_2,input change,8,CORRECT,['Compute sum of factors'],2022-02-28 20:26:50
+1263,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},sum_b_2,input change,checked,INCORRECT,[],2022-02-28 20:26:54
+1264,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_1_ac_3,input change,1,CORRECT,['Compute first factor'],2022-02-28 20:26:58
+1265,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_2_ac_3,input change,1,INCORRECT,['Compute second factor'],2022-02-28 20:27:00
+1266,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},factor_2_ac_3,input change,16,CORRECT,['Compute second factor'],2022-02-28 20:27:04
+1267,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},sum_factor_3,input change,17,CORRECT,['Compute sum of factors'],2022-02-28 20:27:07
+1268,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},sx_value,input change,16,INCORRECT,[],2022-02-28 20:28:44
+1269,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_area_box.html,{'initial_problem': '4x^2-8x+4'},,,,HINT,,2022-02-28 20:28:54
+1270,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring,factor_leading_one.html,{'initial_problem': 'x^2-6x+5'},,start new problem,,,,2022-02-28 20:29:11
+1271,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring,factor_slip_slide.html,{'initial_problem': '3x^2+2x-8'},,start new problem,,,,2022-02-28 20:29:12
+1272,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+2x-8'},a_value,input change,3,CORRECT,['Extract a value'],2022-02-28 20:29:28
+1273,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+2x-8'},b_value,input change,2,CORRECT,['Extract b value'],2022-02-28 20:29:29
+1274,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+2x-8'},c_value,input change,8,INCORRECT,['Extract c value'],2022-02-28 20:29:33
+1275,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+2x-8'},c_value,input change,-,INCORRECT,['Extract c value'],2022-02-28 20:29:36
+1276,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+2x-8'},c_value,input change,-8,CORRECT,['Extract c value'],2022-02-28 20:29:39
+1277,2ae80222-f63b-11eb-83e2-3bfb8e3ab16d,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+2x-8'},product_ac,input change,-24,CORRECT,['Compute a times c for slip and slide'],2022-02-28 20:29:45
+1294,b7ae3ac1-59bf-11ec-bbb8-175535925adb,factoring,factor_grouping.html,{'initial_problem': '25x^2+35x+12'},,start new problem,,,,2022-02-28 21:04:54
+1335,3a21877d-0413-11ec-ab9e-bd2725c7ea7a,factoring,factor_grouping.html,{'initial_problem': '6x^2-23x+20'},,start new problem,,,,2022-02-28 21:10:17
+1345,29f2b4c3-f63b-11eb-83d4-630b7f8ff050,factoring,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},,start new problem,,,,2022-02-28 22:08:40
+1346,3369fbfb-40d5-11ec-9582-bd99c3254e81,factoring,factor_area_box.html,{'initial_problem': '15x^2-16x-15'},,start new problem,,,,2022-02-28 23:10:59
+1347,3369fbfb-40d5-11ec-9582-bd99c3254e81,factoring,factor_area_box.html,{'initial_problem': '8x^2+16x-10'},,start new problem,,,,2022-02-28 23:11:12
+1348,3369fbfb-40d5-11ec-9582-bd99c3254e81,factoring,factor_slip_slide.html,{'initial_problem': '5x^2+26x+5'},,start new problem,,,,2022-02-28 23:11:13
+1349,3369fbfb-40d5-11ec-9582-bd99c3254e81,factoring,factor_grouping.html,{'initial_problem': '6x^2+17x+12'},,start new problem,,,,2022-02-28 23:11:14
+1350,3369fbfb-40d5-11ec-9582-bd99c3254e81,factoring,factor_leading_one.html,{'initial_problem': 'x^2+6x+8'},,start new problem,,,,2022-02-28 23:11:17
+1351,3369fbfb-40d5-11ec-9582-bd99c3254e81,factoring,factor_area_box.html,{'initial_problem': '25x^2-10x-8'},,start new problem,,,,2022-02-28 23:11:18
+1381,2a396844-f63b-11eb-93da-437c65fba5ee,factoring,factor_grouping.html,{'initial_problem': '10x^2+11x+3'},,start new problem,,,,2022-03-01 02:16:35
+1382,cb514975-6fdf-11ec-a5c8-81764a670019,factoring,factor_slip_slide.html,{'initial_problem': '20x^2-3x-9'},,start new problem,,,,2022-03-01 14:05:58
+1383,cb514975-6fdf-11ec-a5c8-81764a670019,factoring,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},,start new problem,,,,2022-03-01 14:06:08
+1384,cb514975-6fdf-11ec-a5c8-81764a670019,factoring,factor_grouping.html,{'initial_problem': '15x^2-19x+6'},,start new problem,,,,2022-03-01 14:06:10
+1385,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},,start new problem,,,,2022-03-01 14:14:44
+1386,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},a_value,input change,6,CORRECT,['Extract a value'],2022-03-01 14:14:53
+1387,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},b_value,input change,11,CORRECT,['Extract b value'],2022-03-01 14:14:56
+1388,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},c_value,input change,-10,CORRECT,['Extract c value'],2022-03-01 14:15:02
+1389,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},product_ac,input change,6(-10),INCORRECT,['Compute a times c for slip and slide'],2022-03-01 14:15:20
+1390,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},product_ac,input change,6-10,INCORRECT,['Compute a times c for slip and slide'],2022-03-01 14:15:32
+1391,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},product_ac,input change,6x-10,INCORRECT,['Compute a times c for slip and slide'],2022-03-01 14:15:44
+1392,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},product_ac,input change,(6)(-10),INCORRECT,['Compute a times c for slip and slide'],2022-03-01 14:16:25
+1393,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},new_equation,input change,x+11x-60,INCORRECT,[],2022-03-01 14:16:55
+1394,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2+11x-10'},new_equation,input change,x2+11x-60,INCORRECT,[],2022-03-01 14:19:37
+1395,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},,start new problem,,,,2022-03-01 14:20:24
+1396,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,-1,INCORRECT,['Extract b value'],2022-03-01 14:21:28
+1397,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},c_value,input change,-6,INCORRECT,['Extract c value'],2022-03-01 14:21:31
+1398,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},factor_1_b_1,input change,6,INCORRECT,[],2022-03-01 14:22:03
+1399,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,-2,INCORRECT,['Extract b value'],2022-03-01 14:22:06
+1400,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},c_value,input change,-3,INCORRECT,['Extract c value'],2022-03-01 14:22:09
+1401,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,2,INCORRECT,['Extract b value'],2022-03-01 14:22:15
+1402,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},c_value,input change,3,INCORRECT,['Extract c value'],2022-03-01 14:22:17
+1403,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,b=2,INCORRECT,['Extract b value'],2022-03-01 14:22:26
+1404,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},c_value,input change,c=-3,INCORRECT,['Extract c value'],2022-03-01 14:22:36
+1405,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,5,HINT,['Extract b value'],2022-03-01 14:22:51
+1406,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,-2,INCORRECT,['Extract b value'],2022-03-01 14:23:04
+1407,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,5,HINT,['Extract b value'],2022-03-01 14:23:13
+1408,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,5,HINT,['Extract b value'],2022-03-01 14:23:13
+1409,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,5,HINT,['Extract b value'],2022-03-01 14:23:13
+1410,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},b_value,input change,5,CORRECT,['Extract b value'],2022-03-01 14:23:20
+1411,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},c_value,input change,6,CORRECT,['Extract c value'],2022-03-01 14:23:24
+1412,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},factor_1_b_1,input change,2,CORRECT,['Compute first factor'],2022-03-01 14:23:27
+1413,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},factor_2_b_1,input change,3,CORRECT,['Compute second factor'],2022-03-01 14:23:29
+1414,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},sum_factor_1,input change,5,CORRECT,['Compute sum of factors'],2022-03-01 14:23:34
+1415,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},sum_c_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 14:23:35
+1416,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},first_expression,input change,x+2=0,INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:23:59
+1417,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},first_expression,input change,x+2,INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:24:21
+1418,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},second_expression,input change,x+3,INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:24:30
+1419,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},first_expression,input change,x+2=0,INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:25:24
+1420,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},second_expression,input change,x+3=0,INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:25:24
+1421,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},final_answer,input change,x=-2 x=-3,INCORRECT,[],2022-03-01 14:25:24
+1422,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},done,button click,,INCORRECT,[],2022-03-01 14:25:24
+1423,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},first_expression,input change,(x+2)(x+3)=0,INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:25:57
+1424,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},first_expression,input change,(x+2)(x+3),INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:26:06
+1425,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},first_expression,input change,(x+2),CORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:26:40
+1426,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},second_expression,input change,(x+3),HINT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:26:41
+1427,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},second_expression,input change,(x+3),CORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:26:55
+1428,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},final_answer,input change,(x+2)(x+3),HINT,['Combine expressions to create final factored form'],2022-03-01 14:26:55
+1429,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},final_answer,input change,(x,INCORRECT,['Combine expressions to create final factored form'],2022-03-01 14:27:06
+1430,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},final_answer,input change,(x+2)(x+3),CORRECT,['Combine expressions to create final factored form'],2022-03-01 14:27:15
+1431,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+5x+6'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:27:15
+1432,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},,start new problem,,,,2022-03-01 14:27:15
+1433,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},b_value,input change,-6,CORRECT,['Extract b value'],2022-03-01 14:27:24
+1434,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},c_value,input change,8,CORRECT,['Extract c value'],2022-03-01 14:27:27
+1435,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},factor_1_b_1,input change,-2,CORRECT,['Compute first factor'],2022-03-01 14:28:15
+1436,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},factor_2_b_1,input change,-4,CORRECT,['Compute second factor'],2022-03-01 14:28:18
+1437,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_factor_1,input change,6,INCORRECT,['Compute sum of factors'],2022-03-01 14:28:25
+1438,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},first_expression,input change,(x-2),INCORRECT,[],2022-03-01 14:28:32
+1439,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},second_expression,input change,(x-4),INCORRECT,[],2022-03-01 14:28:45
+1440,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},final_answer,input change,(x-2)(x-4),INCORRECT,[],2022-03-01 14:29:04
+1441,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:29:04
+1442,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:29:04
+1443,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_factor_1,input change,-6,HINT,['Compute sum of factors'],2022-03-01 14:29:16
+1444,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},final_answer,input change,x=2 x=4,INCORRECT,[],2022-03-01 14:29:37
+1445,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:29:37
+1446,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:29:37
+1447,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},final_answer,input change,(x-2) (x-4),INCORRECT,[],2022-03-01 14:30:07
+1448,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:07
+1449,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:07
+1450,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},final_answer,input change,(x-2)(x-4),INCORRECT,[],2022-03-01 14:30:14
+1451,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:14
+1452,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:14
+1453,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:15
+1454,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:15
+1455,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_factor_1,input change,-6,HINT,['Compute sum of factors'],2022-03-01 14:30:20
+1456,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_factor_1,input change,-6,HINT,['Compute sum of factors'],2022-03-01 14:30:22
+1457,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_factor_1,input change,-6,HINT,['Compute sum of factors'],2022-03-01 14:30:23
+1458,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_factor_1,input change,-6,HINT,['Compute sum of factors'],2022-03-01 14:30:23
+1459,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_factor_1,input change,-6,HINT,['Compute sum of factors'],2022-03-01 14:30:24
+1460,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_factor_1,input change,-6,CORRECT,['Compute sum of factors'],2022-03-01 14:30:42
+1461,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:49
+1462,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:49
+1463,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:54
+1464,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:54
+1465,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:56
+1466,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:56
+1467,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:59
+1468,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:59
+1469,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:30:59
+1470,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:00
+1471,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:05
+1472,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:05
+1473,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_c_1,input change,checked,HINT,['Determine if sum of factors equals s'],2022-03-01 14:31:07
+1474,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:09
+1475,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:09
+1476,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},sum_c_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 14:31:11
+1477,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:13
+1478,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:13
+1479,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:15
+1480,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:15
+1481,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:17
+1482,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:17
+1483,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:18
+1484,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:18
+1485,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:19
+1486,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:19
+1487,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:20
+1488,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:20
+1489,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:22
+1490,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:22
+1491,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:22
+1492,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:22
+1493,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:23
+1494,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:23
+1495,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:23
+1496,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:23
+1497,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:27
+1498,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:27
+1499,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:28
+1500,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:28
+1501,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:28
+1502,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:28
+1503,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:28
+1504,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:28
+1505,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:29
+1506,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:29
+1507,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:29
+1508,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:29
+1509,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:29
+1510,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:29
+1511,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:29
+1512,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:29
+1513,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:30
+1514,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:31:30
+1515,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},first_expression,input change,(x-2),HINT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:31:30
+1516,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},first_expression,input change,x-2,INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:31:48
+1517,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},first_expression,input change,(x+2),INCORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:31:59
+1518,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},first_expression,input change,(x-2),CORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:32:05
+1519,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:32:20
+1520,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:32:20
+1521,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:32:22
+1522,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:32:22
+1523,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:32:22
+1524,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:32:22
+1525,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},second_expression,input change,(x-4),HINT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:32:24
+1526,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},second_expression,input change,(x-4) ,CORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:32:43
+1527,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:33:02
+1528,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:33:02
+1529,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:33:02
+1530,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:33:02
+1531,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:33:02
+1532,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,INCORRECT,[],2022-03-01 14:33:03
+1533,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},final_answer,input change,(x-2) (x-4),CORRECT,['Combine expressions to create final factored form'],2022-03-01 14:33:07
+1534,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:33:07
+1535,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2+1x-20'},,start new problem,,,,2022-03-01 14:33:07
+1536,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:33:07
+1537,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2-6x+8'},,start new problem,,,,2022-03-01 14:33:07
+1538,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},,start new problem,,,,2022-03-01 14:33:35
+1539,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},b_value,input change,1,CORRECT,['Extract b value'],2022-03-01 14:33:44
+1540,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},c_value,input change,-6,CORRECT,['Extract c value'],2022-03-01 14:33:46
+1541,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},factor_1_b_1,input change,3,CORRECT,['Compute first factor'],2022-03-01 14:34:07
+1542,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},factor_2_b_1,input change,-2,CORRECT,['Compute second factor'],2022-03-01 14:34:10
+1543,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},sum_factor_1,input change,-6,INCORRECT,['Compute sum of factors'],2022-03-01 14:34:14
+1544,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},sum_c_1,input change,checked,INCORRECT,[],2022-03-01 14:34:16
+1545,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},sum_factor_1,input change,1,CORRECT,['Compute sum of factors'],2022-03-01 14:34:23
+1546,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},sum_c_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 14:34:25
+1547,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},first_expression,input change,(x+3),CORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:34:37
+1548,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},second_expression,input change,(x-2),CORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:34:47
+1549,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},final_answer,input change,(x-2) (x-4),INCORRECT,['Combine expressions to create final factored form'],2022-03-01 14:34:50
+1550,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},final_answer,input change,(x+3) (x-2),CORRECT,['Combine expressions to create final factored form'],2022-03-01 14:35:06
+1551,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+1x-6'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:35:07
+1552,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},,start new problem,,,,2022-03-01 14:35:07
+1553,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},b_value,input change,2,CORRECT,['Extract b value'],2022-03-01 14:35:12
+1554,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},c_value,input change,-8,CORRECT,['Extract c value'],2022-03-01 14:35:15
+1555,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},factor_1_b_1,input change,-2,CORRECT,['Compute first factor'],2022-03-01 14:35:35
+1556,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},factor_2_b_1,input change,4,CORRECT,['Compute second factor'],2022-03-01 14:35:38
+1557,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},sum_factor_1,input change,2,CORRECT,['Compute sum of factors'],2022-03-01 14:35:41
+1558,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},sum_c_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 14:35:42
+1559,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},first_expression,input change,(x-2),CORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:35:50
+1560,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},second_expression,input change,(x-4) ,INCORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:35:54
+1561,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},second_expression,input change,(x+4) ,CORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:35:58
+1562,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},final_answer,input change,(x-2) (x-4),INCORRECT,['Combine expressions to create final factored form'],2022-03-01 14:36:01
+1563,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},final_answer,input change,(x-2) (x+4),CORRECT,['Combine expressions to create final factored form'],2022-03-01 14:36:08
+1564,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:36:08
+1565,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},,start new problem,,,,2022-03-01 14:36:08
+1566,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+2x-8'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:36:09
+1567,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},,start new problem,,,,2022-03-01 14:36:09
+1568,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},b_value,input change,3,CORRECT,['Extract b value'],2022-03-01 14:36:16
+1569,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},c_value,input change,2,CORRECT,['Extract c value'],2022-03-01 14:36:17
+1570,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},factor_1_b_1,input change,2,CORRECT,['Compute first factor'],2022-03-01 14:36:18
+1571,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},factor_2_b_1,input change,1,CORRECT,['Compute second factor'],2022-03-01 14:36:19
+1572,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},sum_factor_1,input change,3,CORRECT,['Compute sum of factors'],2022-03-01 14:36:22
+1573,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},sum_c_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 14:36:24
+1574,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},first_expression,input change,(x+2),CORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:36:31
+1575,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},second_expression,input change,(x+3),INCORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:36:34
+1576,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},second_expression,input change,(x+1),CORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:36:39
+1577,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},final_answer,input change,(x+2)(x+1),CORRECT,['Combine expressions to create final factored form'],2022-03-01 14:36:53
+1578,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},done,button click,,INCORRECT,[],2022-03-01 14:36:53
+1579,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},done,button click,,INCORRECT,[],2022-03-01 14:36:53
+1580,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},done,button click,,INCORRECT,[],2022-03-01 14:36:53
+1581,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},done,button click,,INCORRECT,[],2022-03-01 14:36:53
+1582,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:36:56
+1583,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:36:56
+1584,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:36:56
+1585,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_leading_one.html,{'initial_problem': 'x^2+3x+2'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 14:36:56
+1586,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2-7x+12'},,start new problem,,,,2022-03-01 14:36:56
+1587,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2-3x-4'},,start new problem,,,,2022-03-01 14:36:56
+1588,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2-4x-5'},,start new problem,,,,2022-03-01 14:36:56
+1589,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_leading_one.html,{'initial_problem': 'x^2+7x+10'},,start new problem,,,,2022-03-01 14:36:56
+1590,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_grouping.html,{'initial_problem': '25x^2+15x+2'},,start new problem,,,,2022-03-01 14:37:00
+1591,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},,start new problem,,,,2022-03-01 14:38:23
+1592,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},a_value,input change,4,CORRECT,['Extract a value'],2022-03-01 14:38:29
+1593,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},b_value,input change,-16,CORRECT,['Extract b value'],2022-03-01 14:38:31
+1594,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},c_value,input change,15,CORRECT,['Extract c value'],2022-03-01 14:38:34
+1595,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},product_ac,input change,60,CORRECT,['Compute a times c for slip and slide'],2022-03-01 14:39:09
+1596,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_equation,input change,x-16x+60,INCORRECT,['Identify intermediate trinomial for slip and slide'],2022-03-01 14:40:03
+1597,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_equation,input change,x^2-16x+60,CORRECT,['Identify intermediate trinomial for slip and slide'],2022-03-01 14:41:28
+1598,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_b_value,input change,(x-6),INCORRECT,['Extract b value'],2022-03-01 14:41:42
+1599,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},factor_1_ac_1,input change,-6,INCORRECT,[],2022-03-01 14:42:35
+1600,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},factor_2_ac_1,input change,-10,INCORRECT,[],2022-03-01 14:43:25
+1601,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_b_value,input change,-16,CORRECT,['Extract b value'],2022-03-01 14:43:26
+1602,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_c_value,input change,60,CORRECT,['Extract c value'],2022-03-01 14:43:29
+1603,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_factor_1,input change,-16,INCORRECT,[],2022-03-01 14:43:40
+1604,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 14:43:40
+1605,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},factor_1_ac_1,input change,-10,CORRECT,['Compute first factor'],2022-03-01 14:44:07
+1606,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},factor_2_ac_1,input change,-6,CORRECT,['Compute second factor'],2022-03-01 14:44:09
+1607,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 14:44:12
+1608,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_factor_1,input change,-16 ,CORRECT,['Compute sum of factors'],2022-03-01 14:44:34
+1609,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 14:44:34
+1610,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 14:45:08
+1611,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_first_expression,input change,(x-10),INCORRECT,[],2022-03-01 14:45:23
+1612,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_first_expression,input change,(x-10) ,INCORRECT,[],2022-03-01 14:45:34
+1613,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_second_expression,input change,(x-6),INCORRECT,[],2022-03-01 14:45:41
+1614,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 14:45:46
+1615,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 14:45:53
+1616,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 14:46:11
+1617,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 14:46:15
+1618,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},factor_1_ac_2,input change,-10,CORRECT,['Compute first factor'],2022-03-01 14:46:33
+1619,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},factor_2_ac_2,input change,-6,CORRECT,['Compute second factor'],2022-03-01 14:46:41
+1620,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_factor_2,input change,-16,CORRECT,['Compute sum of factors'],2022-03-01 14:46:45
+1621,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},sum_b_2,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 14:46:45
+1622,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_first_expression,input change,(x-10),CORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 14:46:54
+1623,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_first_expression,input change,x-10/4,INCORRECT,['Transform first expression for slip and slide'],2022-03-01 14:48:14
+1624,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_second_expression,input change,x-6/4,INCORRECT,[],2022-03-01 14:48:25
+1625,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},new_second_expression,input change,(x-6) ,CORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 14:48:46
+1626,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_first_expression,input change,x-10=0 ,INCORRECT,['Transform first expression for slip and slide'],2022-03-01 14:48:57
+1627,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_second_expression,input change, ,INCORRECT,['Transform second expression for slip and slide'],2022-03-01 14:49:04
+1628,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_first_expression,input change,x-10 ,INCORRECT,['Transform first expression for slip and slide'],2022-03-01 14:49:08
+1629,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_first_expression,input change,(x-10)/4 ,INCORRECT,['Transform first expression for slip and slide'],2022-03-01 14:49:33
+1630,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_first_expression,input change,4 (x-10),INCORRECT,['Transform first expression for slip and slide'],2022-03-01 14:49:45
+1631,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_first_expression,input change,(x-10/4),CORRECT,['Transform first expression for slip and slide'],2022-03-01 14:50:20
+1632,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},raw_second_expression,input change, (x-6/4) ,CORRECT,['Transform second expression for slip and slide'],2022-03-01 14:50:32
+1633,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,x=10/4 ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:50:45
+1634,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,x-10/4 ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:50:55
+1635,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(x-10/4) ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:51:13
+1636,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(x=10/4),INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:51:25
+1637,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_second_expression,input change, ,INCORRECT,['Simplify second expression for slip and slide'],2022-03-01 14:51:29
+1638,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(x=10/4) ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:51:31
+1639,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,x=10/4 ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:51:39
+1640,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,4x-10 ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:53:22
+1641,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_second_expression,input change, x-6/4 ,INCORRECT,['Simplify second expression for slip and slide'],2022-03-01 14:53:49
+1642,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(4x-10) ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:54:07
+1643,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(x-5/2),HINT,['Simplify first expression for slip and slide'],2022-03-01 14:54:20
+1644,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(4x-10),INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:54:31
+1645,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(x-10/4) ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:54:44
+1646,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(x-10/4),INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 14:55:43
+1647,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_second_expression,input change, 4x-6 ,INCORRECT,['Simplify second expression for slip and slide'],2022-03-01 14:55:55
+1648,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(x-10/4) ,INCORRECT,[],2022-03-01 14:57:02
+1649,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_second_expression,input change,(x-6/4) ,INCORRECT,[],2022-03-01 14:57:11
+1650,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_second_expression,input change,(4x-6) ,INCORRECT,[],2022-03-01 14:57:51
+1651,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(4x-10) ,INCORRECT,[],2022-03-01 14:58:37
+1652,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(4x-10),INCORRECT,[],2022-03-01 14:58:47
+1653,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(4x-10) ,INCORRECT,[],2022-03-01 14:58:51
+1654,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_second_expression,input change,(x-6) ,INCORRECT,[],2022-03-01 14:58:58
+1655,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(x-10/4) ,INCORRECT,[],2022-03-01 14:59:27
+1656,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_second_expression,input change,(x-6/4) ,INCORRECT,[],2022-03-01 14:59:31
+1657,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(x-5/2),HINT,['Simplify first expression for slip and slide'],2022-03-01 15:01:01
+1658,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_first_expression,input change,(x-5/2) ,CORRECT,['Simplify first expression for slip and slide'],2022-03-01 15:01:40
+1659,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},simplified_second_expression,input change,(x-3/2) ,CORRECT,['Simplify second expression for slip and slide'],2022-03-01 15:01:52
+1660,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(4x-5/2) ,INCORRECT,['Finalize first expression for slip and slide'],2022-03-01 15:03:06
+1661,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(x-5/2) ,INCORRECT,['Finalize first expression for slip and slide'],2022-03-01 15:03:15
+1662,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,x-5/2 ,INCORRECT,['Finalize first expression for slip and slide'],2022-03-01 15:05:11
+1663,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(2x-5),HINT,['Finalize first expression for slip and slide'],2022-03-01 15:05:20
+1664,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(2x-5),HINT,['Finalize first expression for slip and slide'],2022-03-01 15:05:42
+1665,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_second_expression,input change,(2x-3) ,CORRECT,['Finalize second expression for slip and slide'],2022-03-01 15:06:29
+1666,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(x-5/2) ,INCORRECT,['Finalize first expression for slip and slide'],2022-03-01 15:06:43
+1667,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_first_expression,input change,(2x-5) ,CORRECT,['Finalize first expression for slip and slide'],2022-03-01 15:06:51
+1668,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},final_answer,input change,(2X-5)(2X-3) ,CORRECT,['Combine expressions to create final factored form'],2022-03-01 15:07:08
+1669,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},done,button click,,INCORRECT,[],2022-03-01 15:07:08
+1670,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},done,button click,,INCORRECT,[],2022-03-01 15:07:08
+1671,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 15:07:11
+1672,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},,start new problem,,,,2022-03-01 15:07:11
+1673,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},a_value,input change,4,CORRECT,['Extract a value'],2022-03-01 15:07:16
+1674,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},b_value,input change,5,CORRECT,['Extract b value'],2022-03-01 15:07:17
+1675,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},c_value,input change,1,CORRECT,['Extract c value'],2022-03-01 15:07:20
+1676,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},product_ac,input change,4,CORRECT,['Compute a times c for slip and slide'],2022-03-01 15:07:30
+1677,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},new_equation,input change,x^2+5x+4,CORRECT,['Identify intermediate trinomial for slip and slide'],2022-03-01 15:07:50
+1678,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},new_b_value,input change,5,CORRECT,['Extract b value'],2022-03-01 15:08:12
+1679,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},new_c_value,input change,4,CORRECT,['Extract c value'],2022-03-01 15:08:18
+1680,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},factor_1_ac_1,input change,4,CORRECT,['Compute first factor'],2022-03-01 15:08:21
+1681,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},factor_2_ac_1,input change,1,CORRECT,['Compute second factor'],2022-03-01 15:08:23
+1682,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},sum_factor_1,input change,5,CORRECT,['Compute sum of factors'],2022-03-01 15:08:26
+1683,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},sum_b_1,input change,checked,INCORRECT,[],2022-03-01 15:08:26
+1684,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},sum_b_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 15:08:33
+1685,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},new_first_expression,input change,(x+4),CORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 15:08:42
+1686,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},new_second_expression,input change,(x+1),CORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 15:08:48
+1687,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},raw_first_expression,input change,(x+4/4),CORRECT,['Transform first expression for slip and slide'],2022-03-01 15:09:18
+1688,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},raw_second_expression,input change,(x+1/4),CORRECT,['Transform second expression for slip and slide'],2022-03-01 15:09:28
+1689,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},simplified_first_expression,input change,(x+1),CORRECT,['Simplify first expression for slip and slide'],2022-03-01 15:09:46
+1690,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},simplified_second_expression,input change,(x+1/4),CORRECT,['Simplify second expression for slip and slide'],2022-03-01 15:09:59
+1691,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},final_first_expression,input change,(x+1),CORRECT,['Finalize first expression for slip and slide'],2022-03-01 15:10:08
+1692,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},final_second_expression,input change,(4x+1),CORRECT,['Finalize second expression for slip and slide'],2022-03-01 15:10:19
+1693,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},final_answer,input change,(x+1)(4x+1) ,CORRECT,['Combine expressions to create final factored form'],2022-03-01 15:10:35
+1694,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 15:10:37
+1695,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '15x^2+13x+2'},,start new problem,,,,2022-03-01 15:10:37
+1696,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2+5x+1'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 15:10:37
+1697,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},,start new problem,,,,2022-03-01 15:10:37
+1698,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},a_value,input change,20,CORRECT,['Extract a value'],2022-03-01 15:10:43
+1699,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},b_value,input change,9,CORRECT,['Extract b value'],2022-03-01 15:10:45
+1700,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},c_value,input change,1,CORRECT,['Extract c value'],2022-03-01 15:10:46
+1701,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},product_ac,input change,20,CORRECT,['Compute a times c for slip and slide'],2022-03-01 15:10:48
+1702,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},new_equation,input change,x^2+9x+20,CORRECT,['Identify intermediate trinomial for slip and slide'],2022-03-01 15:11:03
+1703,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},new_b_value,input change,9,CORRECT,['Extract b value'],2022-03-01 15:11:06
+1704,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},new_c_value,input change,20,CORRECT,['Extract c value'],2022-03-01 15:11:08
+1705,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},factor_1_ac_1,input change,4,CORRECT,['Compute first factor'],2022-03-01 15:11:16
+1706,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},factor_2_ac_1,input change,5,CORRECT,['Compute first factor'],2022-03-01 15:11:17
+1707,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},sum_factor_1,input change,9,CORRECT,['Compute sum of factors'],2022-03-01 15:11:17
+1708,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},sum_b_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 15:11:20
+1709,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},new_first_expression,input change,(x+4),CORRECT,['Create first expression from factors when leading coef is 1'],2022-03-01 15:11:30
+1710,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},new_second_expression,input change,(x+5),CORRECT,['Create second expression from factors when leading coef is 1'],2022-03-01 15:11:35
+1711,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},raw_first_expression,input change,(x+4/20),CORRECT,['Transform first expression for slip and slide'],2022-03-01 15:11:59
+1712,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},raw_second_expression,input change,(x+5/20),CORRECT,['Transform second expression for slip and slide'],2022-03-01 15:12:09
+1713,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},simplified_first_expression,input change,(x+1/2) ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 15:12:49
+1714,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},simplified_first_expression,input change,(x+1/4) ,INCORRECT,['Simplify first expression for slip and slide'],2022-03-01 15:12:56
+1715,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},simplified_first_expression,input change,(x+1/5) ,CORRECT,['Simplify first expression for slip and slide'],2022-03-01 15:13:01
+1716,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},simplified_second_expression,input change,(x+1/4) ,CORRECT,['Simplify second expression for slip and slide'],2022-03-01 15:13:16
+1717,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},final_first_expression,input change,(5x+1) ,CORRECT,['Finalize first expression for slip and slide'],2022-03-01 15:13:32
+1718,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},final_second_expression,input change,(4x+1),CORRECT,['Finalize second expression for slip and slide'],2022-03-01 15:13:47
+1719,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},final_answer,input change,(5x+1)(4x+1) ,CORRECT,['Combine expressions to create final factored form'],2022-03-01 15:14:06
+1720,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 15:14:06
+1721,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 15:14:07
+1722,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '5x^2-19x+12'},,start new problem,,,,2022-03-01 15:14:07
+1723,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '25x^2+15x-4'},,start new problem,,,,2022-03-01 15:14:07
+1724,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 15:14:07
+1725,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '20x^2+9x+1'},done,button click,,CORRECT,['Determine if factoring is complete'],2022-03-01 15:14:07
+1726,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '8x^2+10x-3'},,start new problem,,,,2022-03-01 15:14:07
+1727,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '20x^2+13x-15'},,start new problem,,,,2022-03-01 15:14:07
+1728,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},,start new problem,,,,2022-03-01 15:14:13
+1729,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},a_value,input change,10,CORRECT,['Extract a value'],2022-03-01 15:14:22
+1730,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},b_value,input change,1,CORRECT,['Extract b value'],2022-03-01 15:14:23
+1731,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},c_value,input change,-3,CORRECT,['Extract c value'],2022-03-01 15:14:26
+1732,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},product_ac,input change,-30,CORRECT,['Update r value based on product of ac'],2022-03-01 15:14:31
+1733,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},factor_1_ac_1,input change,6,CORRECT,['Compute first factor'],2022-03-01 15:15:30
+1734,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},factor_2_ac_1,input change,-5,CORRECT,['Compute second factor'],2022-03-01 15:15:32
+1735,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},sum_factor_1,input change,1,CORRECT,['Compute sum of factors'],2022-03-01 15:15:37
+1736,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},sum_b_1,input change,checked,CORRECT,['Determine if sum of factors equals s'],2022-03-01 15:15:40
+1737,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},p_value,input change,(x+6) ,INCORRECT,['Extract first p or q value'],2022-03-01 15:20:12
+1738,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_grouping.html,{'initial_problem': '10x^2+1x-3'},q_value,input change,(x-5) ,INCORRECT,['Extract first p or q value'],2022-03-01 15:20:26
+1739,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_slip_slide.html,{'initial_problem': '4x^2-16x+15'},,start new problem,,,,2022-03-01 15:21:16
+1740,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring,factor_area_box.html,{'initial_problem': '2x^2-3x-2'},,start new problem,,,,2022-03-01 15:21:39
+1741,e975200f-f63a-11eb-bb8c-d79e137481a7,factoring_polynomials,factor_area_box.html,{'initial_problem': '2x^2-3x-2'},done,button click,,INCORRECT,[],2022-03-01 15:23:12
+1742,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring,factor_slip_slide.html,{'initial_problem': '3x^2+19x+20'},,start new problem,,,,2022-03-01 17:20:10
+1743,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+19x+20'},a_value,input change,3,CORRECT,['Extract a value'],2022-03-01 17:20:20
+1744,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+19x+20'},b_value,input change,19,CORRECT,['Extract b value'],2022-03-01 17:20:23
+1745,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+19x+20'},c_value,input change,20,CORRECT,['Extract c value'],2022-03-01 17:20:25
+1746,5e38a774-4bd9-11ec-b353-b19cb724a1e1,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '3x^2+19x+20'},product_ac,input change,60,CORRECT,['Compute a times c for slip and slide'],2022-03-01 17:20:38
+1747,eabeb7a1-4897-11ec-919c-8f010eb9ad68,factoring,factor_area_box.html,{'initial_problem': '4x^2-18x+20'},,start new problem,,,,2022-03-01 22:47:47
+1748,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring,factor_slip_slide.html,{'initial_problem': '4x^2-3x-10'},,start new problem,,,,2022-03-01 22:56:29
+1749,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-3x-10'},a_value,input change,4,CORRECT,['Extract a value'],2022-03-01 23:10:44
+1750,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-3x-10'},b_value,input change,3,INCORRECT,['Extract b value'],2022-03-01 23:10:47
+1751,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-3x-10'},b_value,input change,10,INCORRECT,['Extract b value'],2022-03-01 23:10:53
+1752,3a21877d-0413-11ec-ab9e-bd2725c7ea7a,factoring,factor_slip_slide.html,{'initial_problem': '6x^2-5x-4'},,start new problem,,,,2022-03-01 23:14:49
+1753,3a21877d-0413-11ec-ab9e-bd2725c7ea7a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2-5x-4'},a_value,input change,6,CORRECT,['Extract a value'],2022-03-01 23:15:03
+1754,3a21877d-0413-11ec-ab9e-bd2725c7ea7a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2-5x-4'},b_value,input change,-5,CORRECT,['Extract b value'],2022-03-01 23:15:05
+1755,3a21877d-0413-11ec-ab9e-bd2725c7ea7a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2-5x-4'},c_value,input change,-4,CORRECT,['Extract c value'],2022-03-01 23:15:09
+1756,3a21877d-0413-11ec-ab9e-bd2725c7ea7a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '6x^2-5x-4'},product_ac,input change,-24,CORRECT,['Compute a times c for slip and slide'],2022-03-01 23:15:31
+1757,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-3x-10'},b_value,input change,4,INCORRECT,['Extract b value'],2022-03-01 23:18:06
+1758,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_slip_slide.html,{'initial_problem': '4x^2-3x-10'},b_value,input change,-3,HINT,['Extract b value'],2022-03-01 23:18:31
+1759,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring,factor_leading_one.html,{'initial_problem': 'x^2+6x+5'},,start new problem,,,,2022-03-01 23:30:04
+1760,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},,start new problem,,,,2022-03-01 23:30:06
+1761,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},a_value,input change,9,CORRECT,['Extract a value'],2022-03-01 23:30:37
+1762,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},b_value,input change,8,INCORRECT,['Extract b value'],2022-03-01 23:30:47
+1763,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},c_value,input change,8,INCORRECT,['Extract c value'],2022-03-01 23:30:51
+1764,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},b_value,input change,16,INCORRECT,['Extract b value'],2022-03-01 23:42:55
+1765,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},b_value,input change,8,INCORRECT,['Extract b value'],2022-03-02 01:26:42
+1766,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},c_value,input change,8,INCORRECT,['Extract c value'],2022-03-02 01:26:46
+1767,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},b_value,input change,-24,CORRECT,['Extract b value'],2022-03-02 01:27:00
+1768,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},c_value,input change,16,CORRECT,['Extract c value'],2022-03-02 01:27:05
+1769,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},product_ac,input change,144,CORRECT,['Update r value based on product of ac'],2022-03-02 01:27:37
+1770,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_1_ac_1,input change,12,CORRECT,['Compute first factor'],2022-03-02 01:27:51
+1771,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_2_ac_1,input change,12,CORRECT,['Compute second factor'],2022-03-02 01:27:52
+1772,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},sum_factor_1,input change,144,INCORRECT,['Compute sum of factors'],2022-03-02 01:27:56
+1773,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},sum_b_1,input change,checked,INCORRECT,[],2022-03-02 01:27:56
+1774,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_1_ac_2,input change,9,INCORRECT,[],2022-03-02 01:28:59
+1775,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_1_ac_2,input change,48,INCORRECT,[],2022-03-02 01:29:18
+1776,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_1_ac_2,input change,72,INCORRECT,[],2022-03-02 01:29:23
+1777,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_1_ac_2,input change,3,INCORRECT,[],2022-03-02 01:30:17
+1778,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_2_ac_2,input change,4,INCORRECT,[],2022-03-02 01:30:18
+1779,2d4eea60-f63b-11eb-8e07-dbc19e0df454,factoring,factor_area_box.html,{'initial_problem': '25x^2-10x+1'},,start new problem,,,,2022-03-02 01:40:27
+1780,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_2_ac_2,input change,3,INCORRECT,[],2022-03-02 01:52:37
+1781,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_2_ac_2,input change,4,INCORRECT,[],2022-03-02 01:52:51
+1782,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_1_ac_2,input change,6,INCORRECT,[],2022-03-02 01:53:16
+1783,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_1_ac_2,input change,3,INCORRECT,[],2022-03-02 01:53:20
+1784,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring_polynomials,factor_grouping.html,{'initial_problem': '9x^2-24x+16'},factor_1_ac_2,input change,9,INCORRECT,[],2022-03-02 01:53:42
+1785,88d88c93-ff7a-11eb-b799-d1d9dd24efdf,factoring,factor_slip_slide.html,{'initial_problem': '6x^2+23x+20'},,start new problem,,,,2022-03-02 01:59:56
+1786,0d382ba4-f63b-11eb-ba06-ed5ae755ea8a,factoring,factor_slip_slide.html,{'initial_problem': '9x^2+18x+5'},,start new problem,,,,2022-03-02 02:32:00
+1787,2bab4a49-f63b-11eb-a6fd-630e97e32207,factoring,factor_grouping.html,{'initial_problem': '4x^2+4x-3'},,start new problem,,,,2022-03-02 06:24:13
+1788,2bab4a49-f63b-11eb-a6fd-630e97e32207,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+4x-3'},a_value,input change,4x,INCORRECT,['Extract a value'],2022-03-02 06:24:28
+1789,2bab4a49-f63b-11eb-a6fd-630e97e32207,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+4x-3'},a_value,input change,4x^2,INCORRECT,['Extract a value'],2022-03-02 06:24:37
+1790,2bab4a49-f63b-11eb-a6fd-630e97e32207,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+4x-3'},a_value,input change,x^2,INCORRECT,['Extract a value'],2022-03-02 06:24:43
+1791,2bab4a49-f63b-11eb-a6fd-630e97e32207,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+4x-3'},a_value,input change,4,HINT,['Extract a value'],2022-03-02 06:24:57
+1792,2bab4a49-f63b-11eb-a6fd-630e97e32207,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+4x-3'},a_value,input change,4,CORRECT,['Extract a value'],2022-03-02 06:25:05
+1793,2bab4a49-f63b-11eb-a6fd-630e97e32207,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+4x-3'},b_value,input change,4,CORRECT,['Extract b value'],2022-03-02 06:25:09
+1794,2bab4a49-f63b-11eb-a6fd-630e97e32207,factoring_polynomials,factor_grouping.html,{'initial_problem': '4x^2+4x-3'},c_value,input change,-3,CORRECT,['Extract c value'],2022-03-02 06:25:14
+1796,f7edaae6-f63a-11eb-976f-4baa5e226b5d,factoring,factor_area_box.html,{'initial_problem': '6x^2-1x-1'},,start new problem,,,,2022-03-02 16:47:00
+1797,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_leading_one.html,{'initial_problem': 'x^2-1x-6'},,start new problem,,,,2022-03-02 17:15:58
+1798,b4046b2c-1bde-11ec-b45f-3b274fa0c164,factoring,factor_leading_one.html,{'initial_problem': 'x^2+8x+15'},,start new problem,,,,2022-03-02 18:17:11
+1799,b4046b2c-1bde-11ec-b45f-3b274fa0c164,factoring,factor_leading_one.html,{'initial_problem': 'x^2+7x+12'},,start new problem,,,,2022-03-02 18:18:34
+1801,f46be5f9-f63a-11eb-9d0a-0fcdf89dfbb7,factoring,factor_grouping.html,{'initial_problem': '6x^2+13x+6'},,start new problem,,,,2022-03-03 04:35:57
+1802,26815378-f63b-11eb-b2f0-ed5ae755ea8a,factoring,factor_area_box.html,{'initial_problem': '15x^2-2x-8'},,start new problem,,,,2022-03-03 04:47:13
+1803,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_grouping.html,{'initial_problem': '12x^2-11x-15'},,start new problem,,,,2022-03-03 05:13:57
+1804,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_leading_one.html,{'initial_problem': 'x^2-7x+12'},,start new problem,,,,2022-03-03 05:20:28
+1805,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_area_box.html,{'initial_problem': '15x^2+8x-16'},,start new problem,,,,2022-03-03 05:39:41
+1806,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_grouping.html,{'initial_problem': '6x^2-25x+25'},,start new problem,,,,2022-03-03 05:47:06
+1807,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_leading_one.html,{'initial_problem': 'x^2-7x+10'},,start new problem,,,,2022-03-03 05:55:15
+1808,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_grouping.html,{'initial_problem': '8x^2+22x+15'},,start new problem,,,,2022-03-03 06:02:25
+1809,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_area_box.html,{'initial_problem': '10x^2+1x-2'},,start new problem,,,,2022-03-03 06:26:12
+1810,c3ebbbc4-f63a-11eb-9ba6-1ff9bf4e2f99,factoring,factor_grouping.html,{'initial_problem': '25x^2-25x+4'},,start new problem,,,,2022-03-03 06:39:23
+1811,b8ceacdb-f63a-11eb-b3af-c34a53d9cf96,factoring,factor_slip_slide.html,{'initial_problem': '6x^2+11x+3'},,start new problem,,,,2022-03-04 01:10:19
